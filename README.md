@@ -6,4 +6,4 @@ TortoiseGit has a great merge tool, but you must install the entire package in o
 
 Latest Release - v2.8.0.0
 
-https://github.com/scottmudge/TortoiseGitMerge_Standalone/releases/download/2.8.0.0/TortoiseGitMerge_v2.8.0.0.zip
+https://github.com/Venryx/TortoiseGitMerge_Standalone/releases/download/2.8.0.0/TortoiseGitMerge_v2.8.0.0.zip
